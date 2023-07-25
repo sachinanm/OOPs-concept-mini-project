@@ -1,6 +1,6 @@
 # Coffee Machine OOPS Concept Mini Project
 
-![Coffee Machine](https://i.imgur.com/YourCoffeeMachineGraphic.png)
+![Coffee Machine]
 
 ## Overview
 
