@@ -43,6 +43,3 @@ Welcome to the Coffee Machine OOPS Concept Mini Project! This project is a Pytho
    - If the transaction is successful and there are enough resources to make the selected drink, the ingredients are deducted from the coffee machine resources.
    - After making the drink, the program displays a message to the user (e.g., "Here is your latte. Enjoy!") if "latte" was their choice of drink.
 
-## Installation and Usage
-
-1. Clone this repository to your local machine using:
